@@ -1,0 +1,35 @@
+Project Assignment: Build a Voting System
+
+Your task is to build a web based Voting System that allows users to sign up, log in, 
+participate in elections by casting votes, and view real time results. The system should be secure, 
+user friendly, and suitable for various types of elections and polls.
+
+Requirements
+1.User Authentication
+
+    Implement user registration (sign up) functionality.
+    Implement user login functionality.
+    Implement user logout functionality.
+
+2.Admin Dashboard
+
+    Create a dashboard for admins to set up and manage elections or polls.
+    Provide functionalities for admins to manage user accounts.
+    Allow admins to view and generate reports of voting results.
+
+3.User Dashboard
+
+    Display a list of ongoing, upcoming, and past elections or polls.
+    Enable users to cast their votes in active elections or polls.
+    Allow users to view the results of completed elections or polls.
+
+4.Security Features
+
+    Implement secure authentication to protect user accounts.
+    Ensure all data is encrypted during transmission.
+    Maintain logs of all activities within the system.
+
+5.User Interface
+
+    Ensure the application is accessible on various devices (responsive design).
+    Create a user-friendly interface for easy navigation and participation.

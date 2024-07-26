@@ -1,0 +1,40 @@
+Project Assignment: Build a Django Bakery Inventory Management System
+
+Objective:
+    Your task is to build a web based Bakery Inventory Management System using Django. 
+    This system will help bakery owners and staff manage their inventory, track stock levels
+    of ingredients and products, and streamline the process of ordering supplies and managing sales. 
+    The goal is to create a secure, efficient, and user friendly application.
+
+Requirements
+1.User Authentication
+
+    Implement user registration (sign up) functionality.
+    Implement user login functionality.
+    Implement user logout functionality.
+    
+2.Admin Dashboard
+
+    Product Management: Add, update, and delete bakery products, including details such as name, category, price, and stock levels.
+    Ingredient Management: Track ingredients, record stock levels, and manage inventory.
+    Supplier Management: Manage supplier information and track orders placed with suppliers.
+    Sales Management: Record sales transactions and generate sales reports.
+    User Management: Manage user accounts and assign roles (e.g., admin, manager, staff).
+
+3.User Dashboard
+
+    View Inventory: Access the list of bakery products and ingredients with their current stock levels.
+    Place Orders: Record orders for new ingredients from suppliers.
+    Track Sales: Enter and track sales transactions.
+    Generate Reports: Generate and view various reports (e.g., stock levels, sales, orders).
+
+4.Security Features
+
+    Implement secure authentication to protect user accounts.
+    Ensure all data is encrypted during transmission.
+    Maintain logs of all activities within the system for auditing purposes.
+
+5.User Interface
+
+    Ensure the application is accessible on various devices (responsive design).
+    Create a user-friendly interface for easy navigation and management.

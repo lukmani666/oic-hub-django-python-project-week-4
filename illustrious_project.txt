@@ -1,0 +1,42 @@
+Project Assignment: Build a Django Library Management System
+
+Objective
+    Your task is to build a web based Library Management System using Django. 
+    This system will help libraries manage books, members, and lending operations 
+    efficiently. The goal is to create a secure, efficient, and user friendly 
+    application that streamlines library management tasks.
+
+Requirements
+1.User Authentication
+
+    Implement user registration (sign up) functionality for library members.
+    Implement user login functionality.
+    Implement user logout functionality.
+
+2.Admin Dashboard
+
+    Book Management: Add, update, and delete books, including details such as title, author, ISBN, category, and availability status.
+    Member Management: Register members, manage member information, and track membership status.
+    Lending Management: Manage book lending operations, including issuing books, tracking due dates, and managing returns.
+    Fine Management: Calculate and manage overdue fines.
+    User Management: Manage user accounts and assign roles (e.g., admin, member).
+    Track Overdues: Monitor and manage overdue books and fines.
+    Generate Reports: Generate and view reports on book inventory, lending history, and member activities.
+
+3.Member Dashboard
+
+    Profile Management: Update personal information and view membership status.
+    Search and View Books: Search for books in the library catalog and view book details.
+    Borrowed Books: View the list of currently borrowed books, their due dates, and any overdue fines.
+    Request Books: Request books that are currently unavailable or place a hold on books.
+
+4.Security Features
+
+    Implement secure authentication to protect user accounts.
+    Ensure all data is encrypted during transmission.
+    Maintain logs of all activities within the system for auditing purposes.
+
+5.User Interface
+
+    Ensure the application is accessible on various devices (responsive design).
+    Create a user-friendly interface for easy navigation and management.
